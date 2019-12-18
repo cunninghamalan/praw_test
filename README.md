@@ -1,3 +1,3 @@
 # Praw Test
 
-Its growing ridiculous how many steps you have to do to start using the reddit api. Might be a lot easier just using beautiful soup or something.
+I don't know yet, I was trying to play around with praw and its getting increasingly complicated. If I can't start in about 10 minutes im just going to make my own praw
